@@ -1,0 +1,6 @@
+{
+  "name": "EventSphere - Event Management System",
+  "description": "Full-stack event management application with event scheduling, attendee registrations, check-in, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
